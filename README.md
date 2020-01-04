@@ -1,4 +1,4 @@
-Selected code from _Murphy, Boonstra & Nieuwenhuis (2016). Global gain modulation generates time-dependent urgency during perceptual choice in humans, Nature Communications, 7: 13526_. [https://www.nature.com/articles/ncomms13526](https://www.nature.com/articles/ncomms13526)
+Selected code from: Murphy, Boonstra & Nieuwenhuis (2016). Global gain modulation generates time-dependent urgency during perceptual choice in humans, _Nature Communications_, 7: 13526. [https://www.nature.com/articles/ncomms13526](https://www.nature.com/articles/ncomms13526)
 
 ### Contents
 
