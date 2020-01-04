@@ -1,6 +1,6 @@
 Selected code from Murphy, Boonstra & Nieuwenhuis (2016). Global gain modulation generates time-dependent urgency during perceptual choice in humans, Nature Communications, 7: 13526. [https://www.nature.com/articles/ncomms13526](https://www.nature.com/articles/ncomms13526)
 
-### Contains
+### Contents
 
 * CAF_fitting: Matlab functions to fit a piece-wise logistic conditional accuracy function to single-trial accuracy and response time data (e.g. as in panel c of [Figure 1](https://www.nature.com/articles/ncomms13526/figures/1) in paper). Top-level function is `fit_CAF.m`.
 
